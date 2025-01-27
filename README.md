@@ -7,8 +7,6 @@ O principal objetivo deste projeto é utilizar o Raspberry Pi Pico W juntamente 
 
 ## 🗒️ Lista de requisitos
 
-- Teclado matricial 4x4.; 
-- Microcontrolador Raspberry Pi Pico W;
 - Teclado matricial 4x4; 
 - Microcontrolador Raspberry Pi Pico W; 
 - Matriz de LEDs Coloridos (LED-RGB 5x5 WS2812);
@@ -19,12 +17,10 @@ O principal objetivo deste projeto é utilizar o Raspberry Pi Pico W juntamente 
 1. **Git e Github**;
 2. **VScode**;
 3. **Linguagem C**;
-4. **Software de emulação PuTTy.**
-
 
 ## 🔧 Funcionalidades Implementadas:
 
-- Animação feita por José Vinicius, ao apertar a tecla 0, irá aparecer o nome "EMBARCATECH ♥". Caso a tecla A seja acionada, todos os LEDs deverão ser desligados.
+- Animação feita por José Vinicius, em que ao apertar a tecla 0, irá aparecer o nome "EMBARCATECH ♥". Caso a tecla A seja acionada, todos os LEDs deverão ser desligados.
 
 
 ## 💻 Desenvolvedor
@@ -38,4 +34,4 @@ O principal objetivo deste projeto é utilizar o Raspberry Pi Pico W juntamente 
 
 ## 🎥 Demonstração: 
 
-
+- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: https://www.youtube.com/shorts/psamU8IIyZQ
